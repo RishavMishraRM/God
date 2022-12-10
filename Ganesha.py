@@ -1,5 +1,4 @@
-#God Ganesh
-#Ganesha
+#God Ganesha
 import turtle
 import random
 turtle.speed(9)
